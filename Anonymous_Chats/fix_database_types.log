@@ -1,0 +1,11 @@
+2025-04-13 00:56:38,345 - telegram_bot - INFO - Database setup completed successfully
+2025-04-13 00:56:38,345 - telegram_bot - INFO - user_def table created/verified successfully
+2025-04-13 00:56:38,345 - telegram_bot - INFO - user_def.db created successfully, size: 8192 bytes
+2025-04-13 00:56:38,350 - fix_database_types - INFO - Starting database type fix process
+2025-04-13 00:56:38,350 - telegram_db_manager - INFO - Changing column 'USER_ID' type from 'INT' to 'INTEGER'
+2025-04-13 00:56:38,352 - telegram_db_manager - INFO - Successfully changed column 'USER_ID' type to 'INTEGER' in table 'users'
+2025-04-13 00:56:38,352 - fix_database_types - INFO - USER_ID type change result: success - Column 'USER_ID' type changed to 'INTEGER' in table 'users'
+2025-04-13 00:56:38,353 - telegram_db_manager - INFO - Changing column 'PEER_ID' type from 'TEXT' to 'INTEGER'
+2025-04-13 00:56:38,355 - telegram_db_manager - INFO - Successfully changed column 'PEER_ID' type to 'INTEGER' in table 'users'
+2025-04-13 00:56:38,355 - fix_database_types - INFO - PEER_ID type change result: success - Column 'PEER_ID' type changed to 'INTEGER' in table 'users'
+2025-04-13 00:56:38,355 - fix_database_types - INFO - Database type fix process completed

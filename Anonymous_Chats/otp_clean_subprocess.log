@@ -1,0 +1,168 @@
+2025-04-13 00:21:19,039 - otp_clean - INFO - OTP cleanup script started with arguments: ['/Users/talha/Anonymous_Chats/otp_clean.py', '584429967']
+2025-04-13 00:21:19,039 - otp_clean - INFO - Current working directory: /Users/talha/Anonymous_Chats
+2025-04-13 00:21:19,039 - otp_clean - INFO - Starting OTP cleanup for user 584429967
+2025-04-13 00:21:19,039 - otp_clean - INFO - OTP cleanup started for user 584429967
+2025-04-13 00:21:19,039 - otp_clean - INFO - Will clean OTP after 10 seconds
+2025-04-13 00:21:29,043 - otp_clean - INFO - 10 seconds passed, now cleaning OTP for user 584429967
+2025-04-13 00:21:29,043 - otp_clean - INFO - Database file permissions: 0o100644
+2025-04-13 00:21:29,043 - otp_clean - INFO - Database file size: 12288 bytes
+2025-04-13 00:21:29,044 - otp_clean - INFO - Connected to SQLite version: 3.45.3
+2025-04-13 00:21:29,045 - otp_clean - INFO - User 584429967 found in database. Current OTP: 1498, OTP_EXP: 2025-04-13 00:21:28
+2025-04-13 00:21:29,045 - otp_clean - INFO - Update affected 1 rows
+2025-04-13 00:21:29,048 - otp_clean - INFO - After update - OTP: '', OTP_EXP: ''
+2025-04-13 00:21:29,048 - otp_clean - INFO - OTP and OTP_EXP cleared for user 584429967
+2025-04-13 00:21:29,048 - otp_clean - INFO - OTP cleanup completed for user 584429967
+2025-04-13 00:21:33,458 - otp_clean - INFO - OTP cleanup script started with arguments: ['/Users/talha/Anonymous_Chats/otp_clean.py', '584429967']
+2025-04-13 00:21:33,458 - otp_clean - INFO - Current working directory: /Users/talha/Anonymous_Chats
+2025-04-13 00:21:33,458 - otp_clean - INFO - Starting OTP cleanup for user 584429967
+2025-04-13 00:21:33,458 - otp_clean - INFO - OTP cleanup started for user 584429967
+2025-04-13 00:21:33,458 - otp_clean - INFO - Will clean OTP after 10 seconds
+2025-04-13 00:21:43,461 - otp_clean - INFO - 10 seconds passed, now cleaning OTP for user 584429967
+2025-04-13 00:21:43,461 - otp_clean - INFO - Database file permissions: 0o100644
+2025-04-13 00:21:43,462 - otp_clean - INFO - Database file size: 12288 bytes
+2025-04-13 00:21:43,463 - otp_clean - INFO - Connected to SQLite version: 3.45.3
+2025-04-13 00:21:43,463 - otp_clean - INFO - User 584429967 found in database. Current OTP: 7839, OTP_EXP: 2025-04-13 00:21:43
+2025-04-13 00:21:43,464 - otp_clean - INFO - Update affected 1 rows
+2025-04-13 00:21:43,466 - otp_clean - INFO - After update - OTP: '', OTP_EXP: ''
+2025-04-13 00:21:43,467 - otp_clean - INFO - OTP and OTP_EXP cleared for user 584429967
+2025-04-13 00:21:43,467 - otp_clean - INFO - OTP cleanup completed for user 584429967
+2025-04-13 00:22:01,701 - otp_clean - INFO - OTP cleanup script started with arguments: ['/Users/talha/Anonymous_Chats/otp_clean.py', '584429967']
+2025-04-13 00:22:01,701 - otp_clean - INFO - Current working directory: /Users/talha/Anonymous_Chats
+2025-04-13 00:22:01,701 - otp_clean - INFO - Starting OTP cleanup for user 584429967
+2025-04-13 00:22:01,701 - otp_clean - INFO - OTP cleanup started for user 584429967
+2025-04-13 00:22:01,701 - otp_clean - INFO - Will clean OTP after 10 seconds
+2025-04-13 00:22:11,703 - otp_clean - INFO - 10 seconds passed, now cleaning OTP for user 584429967
+2025-04-13 00:22:11,703 - otp_clean - INFO - Database file permissions: 0o100644
+2025-04-13 00:22:11,704 - otp_clean - INFO - Database file size: 12288 bytes
+2025-04-13 00:22:11,705 - otp_clean - INFO - Connected to SQLite version: 3.45.3
+2025-04-13 00:22:11,705 - otp_clean - INFO - User 584429967 found in database. Current OTP: 8477, OTP_EXP: 2025-04-13 00:22:11
+2025-04-13 00:22:11,706 - otp_clean - INFO - Update affected 1 rows
+2025-04-13 00:22:11,708 - otp_clean - INFO - After update - OTP: '', OTP_EXP: ''
+2025-04-13 00:22:11,708 - otp_clean - INFO - OTP and OTP_EXP cleared for user 584429967
+2025-04-13 00:22:11,708 - otp_clean - INFO - OTP cleanup completed for user 584429967
+2025-04-13 00:29:44,213 - otp_clean - INFO - OTP cleanup script started with arguments: ['/Users/talha/Anonymous_Chats/otp_clean.py', '584429967']
+2025-04-13 00:29:44,213 - otp_clean - INFO - Current working directory: /Users/talha/Anonymous_Chats
+2025-04-13 00:29:44,213 - otp_clean - INFO - Starting OTP cleanup for user 584429967
+2025-04-13 00:29:44,213 - otp_clean - INFO - OTP cleanup started for user 584429967
+2025-04-13 00:29:44,214 - otp_clean - INFO - Will clean OTP after 10 seconds
+2025-04-13 00:29:54,214 - otp_clean - INFO - 10 seconds passed, now cleaning OTP for user 584429967
+2025-04-13 00:29:54,214 - otp_clean - INFO - Database file permissions: 0o100644
+2025-04-13 00:29:54,215 - otp_clean - INFO - Database file size: 12288 bytes
+2025-04-13 00:29:54,216 - otp_clean - INFO - Connected to SQLite version: 3.45.3
+2025-04-13 00:29:54,217 - otp_clean - INFO - User 584429967 found in database. Current OTP: 4263, OTP_EXP: 2025-04-13 00:29:54
+2025-04-13 00:29:54,217 - otp_clean - INFO - Update affected 1 rows
+2025-04-13 00:29:54,219 - otp_clean - INFO - After update - OTP: '', OTP_EXP: ''
+2025-04-13 00:29:54,220 - otp_clean - INFO - OTP and OTP_EXP cleared for user 584429967
+2025-04-13 00:29:54,220 - otp_clean - INFO - OTP cleanup completed for user 584429967
+2025-04-13 00:42:26,580 - otp_clean - INFO - OTP cleanup script started with arguments: ['/Users/talha/Anonymous_Chats/otp_clean.py', '584429967']
+2025-04-13 00:42:26,580 - otp_clean - INFO - Current working directory: /Users/talha/Anonymous_Chats
+2025-04-13 00:42:26,581 - otp_clean - INFO - Starting OTP cleanup for user 584429967
+2025-04-13 00:42:26,581 - otp_clean - INFO - OTP cleanup started for user 584429967
+2025-04-13 00:42:26,581 - otp_clean - INFO - Will clean OTP after 10 seconds
+2025-04-13 00:42:36,585 - otp_clean - INFO - 10 seconds passed, now cleaning OTP for user 584429967
+2025-04-13 00:42:36,586 - otp_clean - INFO - Database file permissions: 0o100644
+2025-04-13 00:42:36,587 - otp_clean - INFO - Database file size: 12288 bytes
+2025-04-13 00:42:36,588 - otp_clean - INFO - Connected to SQLite version: 3.45.3
+2025-04-13 00:42:36,588 - otp_clean - INFO - User 584429967 found in database. Current OTP: 9684, OTP_EXP: 2025-04-13 00:42:36
+2025-04-13 00:42:36,589 - otp_clean - INFO - Update affected 1 rows
+2025-04-13 00:42:36,591 - otp_clean - INFO - After update - OTP: '', OTP_EXP: ''
+2025-04-13 00:42:36,591 - otp_clean - INFO - OTP and OTP_EXP cleared for user 584429967
+2025-04-13 00:42:36,591 - otp_clean - INFO - OTP cleanup completed for user 584429967
+2025-04-13 00:43:02,535 - otp_clean - INFO - OTP cleanup script started with arguments: ['/Users/talha/Anonymous_Chats/otp_clean.py', '5370406970']
+2025-04-13 00:43:02,535 - otp_clean - INFO - Current working directory: /Users/talha/Anonymous_Chats
+2025-04-13 00:43:02,535 - otp_clean - INFO - Starting OTP cleanup for user 5370406970
+2025-04-13 00:43:02,535 - otp_clean - INFO - OTP cleanup started for user 5370406970
+2025-04-13 00:43:02,535 - otp_clean - INFO - Will clean OTP after 10 seconds
+2025-04-13 00:43:12,540 - otp_clean - INFO - 10 seconds passed, now cleaning OTP for user 5370406970
+2025-04-13 00:43:12,540 - otp_clean - INFO - Database file permissions: 0o100644
+2025-04-13 00:43:12,541 - otp_clean - INFO - Database file size: 12288 bytes
+2025-04-13 00:43:12,542 - otp_clean - INFO - Connected to SQLite version: 3.45.3
+2025-04-13 00:43:12,543 - otp_clean - INFO - User 5370406970 found in database. Current OTP: 1225, OTP_EXP: 2025-04-13 00:43:12
+2025-04-13 00:43:12,543 - otp_clean - INFO - Update affected 1 rows
+2025-04-13 00:43:12,546 - otp_clean - INFO - After update - OTP: '', OTP_EXP: ''
+2025-04-13 00:43:12,546 - otp_clean - INFO - OTP and OTP_EXP cleared for user 5370406970
+2025-04-13 00:43:12,546 - otp_clean - INFO - OTP cleanup completed for user 5370406970
+2025-04-13 00:43:50,433 - otp_clean - INFO - OTP cleanup script started with arguments: ['/Users/talha/Anonymous_Chats/otp_clean.py', '584429967']
+2025-04-13 00:43:50,433 - otp_clean - INFO - Current working directory: /Users/talha/Anonymous_Chats
+2025-04-13 00:43:50,433 - otp_clean - INFO - Starting OTP cleanup for user 584429967
+2025-04-13 00:43:50,433 - otp_clean - INFO - OTP cleanup started for user 584429967
+2025-04-13 00:43:50,433 - otp_clean - INFO - Will clean OTP after 10 seconds
+2025-04-13 00:44:10,435 - otp_clean - INFO - 20 seconds passed, now cleaning OTP for user 584429967
+2025-04-13 00:44:10,436 - otp_clean - INFO - Database file permissions: 0o100644
+2025-04-13 00:44:10,436 - otp_clean - INFO - Database file size: 12288 bytes
+2025-04-13 00:44:10,437 - otp_clean - INFO - Connected to SQLite version: 3.45.3
+2025-04-13 00:44:10,437 - otp_clean - INFO - User 584429967 found in database. Current OTP: 7155, OTP_EXP: 2025-04-13 00:44:00
+2025-04-13 00:44:10,438 - otp_clean - INFO - Update affected 1 rows
+2025-04-13 00:44:10,440 - otp_clean - INFO - After update - OTP: '', OTP_EXP: ''
+2025-04-13 00:44:10,440 - otp_clean - INFO - OTP and OTP_EXP cleared for user 584429967
+2025-04-13 00:44:10,440 - otp_clean - INFO - OTP cleanup completed for user 584429967
+2025-04-13 00:44:42,134 - otp_clean - INFO - OTP cleanup script started with arguments: ['/Users/talha/Anonymous_Chats/otp_clean.py', '5370406970']
+2025-04-13 00:44:42,134 - otp_clean - INFO - Current working directory: /Users/talha/Anonymous_Chats
+2025-04-13 00:44:42,134 - otp_clean - INFO - Starting OTP cleanup for user 5370406970
+2025-04-13 00:44:42,134 - otp_clean - INFO - OTP cleanup started for user 5370406970
+2025-04-13 00:44:42,134 - otp_clean - INFO - Will clean OTP after 10 seconds
+2025-04-13 00:45:02,139 - otp_clean - INFO - 20 seconds passed, now cleaning OTP for user 5370406970
+2025-04-13 00:45:02,140 - otp_clean - INFO - Database file permissions: 0o100644
+2025-04-13 00:45:02,140 - otp_clean - INFO - Database file size: 12288 bytes
+2025-04-13 00:45:02,141 - otp_clean - INFO - Connected to SQLite version: 3.45.3
+2025-04-13 00:45:02,142 - otp_clean - INFO - User 5370406970 found in database. Current OTP: 6695, OTP_EXP: 2025-04-13 00:44:52
+2025-04-13 00:45:02,142 - otp_clean - INFO - Update affected 1 rows
+2025-04-13 00:45:02,145 - otp_clean - INFO - After update - OTP: '', OTP_EXP: ''
+2025-04-13 00:45:02,145 - otp_clean - INFO - OTP and OTP_EXP cleared for user 5370406970
+2025-04-13 00:45:02,145 - otp_clean - INFO - OTP cleanup completed for user 5370406970
+2025-04-13 00:45:22,675 - otp_clean - INFO - OTP cleanup script started with arguments: ['/Users/talha/Anonymous_Chats/otp_clean.py', '584429967']
+2025-04-13 00:45:22,675 - otp_clean - INFO - Current working directory: /Users/talha/Anonymous_Chats
+2025-04-13 00:45:22,676 - otp_clean - INFO - Starting OTP cleanup for user 584429967
+2025-04-13 00:45:22,676 - otp_clean - INFO - OTP cleanup started for user 584429967
+2025-04-13 00:45:22,676 - otp_clean - INFO - Will clean OTP after 10 seconds
+2025-04-13 00:45:42,678 - otp_clean - INFO - 20 seconds passed, now cleaning OTP for user 584429967
+2025-04-13 00:45:42,678 - otp_clean - INFO - Database file permissions: 0o100644
+2025-04-13 00:45:42,679 - otp_clean - INFO - Database file size: 12288 bytes
+2025-04-13 00:45:42,680 - otp_clean - INFO - Connected to SQLite version: 3.45.3
+2025-04-13 00:45:42,680 - otp_clean - INFO - User 584429967 found in database. Current OTP: 1851, OTP_EXP: 2025-04-13 00:45:32
+2025-04-13 00:45:42,681 - otp_clean - INFO - Update affected 1 rows
+2025-04-13 00:45:42,683 - otp_clean - INFO - After update - OTP: '', OTP_EXP: ''
+2025-04-13 00:45:42,683 - otp_clean - INFO - OTP and OTP_EXP cleared for user 584429967
+2025-04-13 00:45:42,684 - otp_clean - INFO - OTP cleanup completed for user 584429967
+2025-04-13 00:48:34,069 - otp_clean - INFO - OTP cleanup script started with arguments: ['/Users/talha/Anonymous_Chats/otp_clean.py', '584429967']
+2025-04-13 00:48:34,069 - otp_clean - INFO - Current working directory: /Users/talha/Anonymous_Chats
+2025-04-13 00:48:34,069 - otp_clean - INFO - Starting OTP cleanup for user 584429967
+2025-04-13 00:48:34,069 - otp_clean - INFO - OTP cleanup started for user 584429967
+2025-04-13 00:48:34,069 - otp_clean - INFO - Will clean OTP after 10 seconds
+2025-04-13 00:48:54,070 - otp_clean - INFO - 20 seconds passed, now cleaning OTP for user 584429967
+2025-04-13 00:48:54,070 - otp_clean - INFO - Database file permissions: 0o100644
+2025-04-13 00:48:54,071 - otp_clean - INFO - Database file size: 12288 bytes
+2025-04-13 00:48:54,072 - otp_clean - INFO - Connected to SQLite version: 3.45.3
+2025-04-13 00:48:54,072 - otp_clean - INFO - User 584429967 found in database. Current OTP: 4099, OTP_EXP: 2025-04-13 00:48:43
+2025-04-13 00:48:54,073 - otp_clean - INFO - Update affected 1 rows
+2025-04-13 00:48:54,074 - otp_clean - INFO - After update - OTP: '', OTP_EXP: ''
+2025-04-13 00:48:54,075 - otp_clean - INFO - OTP and OTP_EXP cleared for user 584429967
+2025-04-13 00:48:54,075 - otp_clean - INFO - OTP cleanup completed for user 584429967
+2025-04-15 23:45:34,784 - otp_clean - INFO - OTP cleanup script started with arguments: ['/Users/talha/Anonymous_Chats/otp_clean.py', '584429967']
+2025-04-15 23:45:34,789 - otp_clean - INFO - Current working directory: /Users/talha/Anonymous_Chats
+2025-04-15 23:45:34,789 - otp_clean - INFO - Starting OTP cleanup for user 584429967
+2025-04-15 23:45:34,789 - otp_clean - INFO - OTP cleanup started for user 584429967
+2025-04-15 23:45:34,789 - otp_clean - INFO - Will clean OTP after 10 seconds
+2025-04-15 23:45:54,790 - otp_clean - INFO - 20 seconds passed, now cleaning OTP for user 584429967
+2025-04-15 23:45:54,791 - otp_clean - INFO - Database file permissions: 0o100644
+2025-04-15 23:45:54,791 - otp_clean - INFO - Database file size: 12288 bytes
+2025-04-15 23:45:54,792 - otp_clean - INFO - Connected to SQLite version: 3.45.3
+2025-04-15 23:45:54,792 - otp_clean - INFO - User 584429967 found in database. Current OTP: 4650, OTP_EXP: 2025-04-15 23:45:44
+2025-04-15 23:45:54,793 - otp_clean - INFO - Update affected 1 rows
+2025-04-15 23:45:54,795 - otp_clean - INFO - After update - OTP: '', OTP_EXP: ''
+2025-04-15 23:45:54,795 - otp_clean - INFO - OTP and OTP_EXP cleared for user 584429967
+2025-04-15 23:45:54,795 - otp_clean - INFO - OTP cleanup completed for user 584429967
+2025-04-15 23:46:58,634 - otp_clean - INFO - OTP cleanup script started with arguments: ['/Users/talha/Anonymous_Chats/otp_clean.py', '5370406970']
+2025-04-15 23:46:58,635 - otp_clean - INFO - Current working directory: /Users/talha/Anonymous_Chats
+2025-04-15 23:46:58,635 - otp_clean - INFO - Starting OTP cleanup for user 5370406970
+2025-04-15 23:46:58,635 - otp_clean - INFO - OTP cleanup started for user 5370406970
+2025-04-15 23:46:58,635 - otp_clean - INFO - Will clean OTP after 10 seconds
+2025-04-15 23:47:18,641 - otp_clean - INFO - 20 seconds passed, now cleaning OTP for user 5370406970
+2025-04-15 23:47:18,641 - otp_clean - INFO - Database file permissions: 0o100644
+2025-04-15 23:47:18,641 - otp_clean - INFO - Database file size: 12288 bytes
+2025-04-15 23:47:18,643 - otp_clean - INFO - Connected to SQLite version: 3.45.3
+2025-04-15 23:47:18,643 - otp_clean - INFO - User 5370406970 found in database. Current OTP: 2862, OTP_EXP: 2025-04-15 23:47:08
+2025-04-15 23:47:18,644 - otp_clean - INFO - Update affected 1 rows
+2025-04-15 23:47:18,646 - otp_clean - INFO - After update - OTP: '', OTP_EXP: ''
+2025-04-15 23:47:18,646 - otp_clean - INFO - OTP and OTP_EXP cleared for user 5370406970
+2025-04-15 23:47:18,647 - otp_clean - INFO - OTP cleanup completed for user 5370406970
